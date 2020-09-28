@@ -2,7 +2,7 @@
 
 # Matías Miranda
 
-I am Rahul Bhatia, a Data Scientist and a Software Developer, with a high degree of interest in quantitative  research and financial markets, particularly in derivatives and equities. Currently, I work as a Machine Learning Engineer at Rakuten. <br/>
+I am Matías Miranda, a Data Scientist and a Software Developer, with a high degree of interest in quantitative  research and financial markets, particularly in derivatives and equities. Currently, I work as a Machine Learning Engineer at Rakuten. <br/>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rbahtia46/)](https://twitter.com/rbhatia46/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-bhatia-67ba08121/)](https://www.linkedin.com/in/rahul-bhatia-67ba08121/)
