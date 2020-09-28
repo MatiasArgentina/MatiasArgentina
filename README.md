@@ -3,7 +3,7 @@
 # Matías Miranda
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FMatiasArgentina" alt="Hits">
 <br>
-I am Matías Miranda, I have experience in data generation and developments to drive business growth and make decisions based on information. I worked in technical areas, consulting and commercial areas, which allowed me to have different points of view about business.
+I am Matías Miranda, I have experience in data models to drive business growth based on information. I have worked in technical areas, consulting and commercial areas, which allowed me to have different points of view about business.
 <br> <br>
 Skills: I am Proactive, Goal Driven, Organized. I make focus on Planification with decisions based on informationa Data Scientist and a Software Developer, with a high degree of interest in quantitative  research and financial markets, particularly in derivatives and equities. Currently, I work as a Machine Learning Engineer at Rakuten. <br/>
 <br>
