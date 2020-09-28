@@ -1,15 +1,23 @@
 ### Hi there 👋
 
 # Matías Miranda
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FMatiasArgentina" alt="Hits">
+<br> <br>
+I am Matías Miranda, I have experience in data generation and developments to drive business growth and make decisions based on information. I worked in technical areas, consulting and commercial areas, which allowed me to have different points of view about business.
+<br> <br>
+Skills: I am Proactive, Goal Driven, Organized. I make focus on Planification with decisions based on informationa Data Scientist and a Software Developer, with a high degree of interest in quantitative  research and financial markets, particularly in derivatives and equities. Currently, I work as a Machine Learning Engineer at Rakuten. <br/>
+<br>
 
-I am Matías Miranda, a Data Scientist and a Software Developer, with a high degree of interest in quantitative  research and financial markets, particularly in derivatives and equities. Currently, I work as a Machine Learning Engineer at Rakuten. <br/>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-miranda/?locale=en_US)](https://www.linkedin.com/in/matias-miranda/?locale=en_US)
+[![Medium](https://img.shields.io/badge/Gitlab-Link-orange)](https://gitlab.com/m.miranda)
+[![GitHub](https://img.shields.io/github/followers/matiasargentina?label=follow&style=social)](https://github.com/matiasargentina)
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rbahtia46/)](https://twitter.com/rbhatia46/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-bhatia-67ba08121/)](https://www.linkedin.com/in/rahul-bhatia-67ba08121/)
-[![Medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@rbhatia46)](https://medium.com/@rbhatia46)
-[![GitHub Rahul](https://img.shields.io/github/followers/rbhatia46?label=follow&style=social)](https://github.com/rbhatia46)
-
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frbhatia46%2Frbhatia46" alt="Hits">
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhatia46&layout=compact&hide=html" />
 
