@@ -18,11 +18,10 @@ Skills: I am Proactive, Goal Driven, Organized. I make focus on Planification wi
 - 💬 Feel free to contact me, I strongly believe in colaboration and networks. 
 - 📫 How to reach me: matias.miranda.ar@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhatia46&layout=compact&hide=html" />
-
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasArgentina&layout=compact&count_private=true)](https://github.com/MatiasArgentina/github-readme-stats)
 -->
 
 <!---
