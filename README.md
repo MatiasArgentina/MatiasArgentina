@@ -4,6 +4,7 @@
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FMatiasArgentina" alt="Hits">
 <br>
 I am Matías Miranda, as a devoted data scientist, I have over 10 years of experience in data models to drive business growth based on information. <br>
+<br>
 
 I have worked in technical, consulting and commercial areas which allowed me to have different perspectives about business. I have worked in different Lines of Business: Digital Marketing, HR, Gaming&Gambling, Retail and Risk Management. <br>
 
