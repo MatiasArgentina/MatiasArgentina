@@ -4,12 +4,13 @@
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FMatiasArgentina" alt="Hits">
 <br>
 I am Matías Miranda, as a devoted data scientist, I have over 10 years of experience in data models to drive business growth based on information. I have worked in technical, consulting and commercial areas which allowed me to have different perspectives about business.
+</br>
 <br>
 I have worked in different Lines of Business: Digital Marketing, HR, Gaming&Gambling, Retail and Risk Management. 
+</br>
 <br>
 I am committed, passionate about technology and team oriented. I work with R, Python, PowerBI, Tableau, SQL and MySql. Also, I have obtained certifications in GCP (Google Cloud Platform), analogue to AWS and Azure, all key resources to create Machine Learning models with big data.
-<br>
-<br>
+</br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-miranda/?locale=en_US)](https://www.linkedin.com/in/matias-miranda/?locale=en_US)
 [![Medium](https://img.shields.io/badge/Gitlab-Link-orange)](https://gitlab.com/m.miranda)
