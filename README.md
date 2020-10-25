@@ -11,6 +11,7 @@ I have worked in different Lines of Business: Digital Marketing, HR, Gaming&Gamb
 <br>
 I am committed, passionate about technology and team oriented. I work with R, Python, PowerBI, Tableau, SQL and MySql. Also, I have obtained certifications in GCP (Google Cloud Platform), analogue to AWS and Azure, all key resources to create Machine Learning models with big data.
 </br>
+<br></br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-miranda/?locale=en_US)](https://www.linkedin.com/in/matias-miranda/?locale=en_US)
 [![Medium](https://img.shields.io/badge/Gitlab-Link-orange)](https://gitlab.com/m.miranda)
