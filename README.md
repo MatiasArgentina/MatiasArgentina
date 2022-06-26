@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 # Matías Miranda
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FMatiasArgentina" alt="Hits">
-<br>
 I am Matías Miranda, as a devoted data scientist, I have over 10 years of experience in data models to drive business growth based on information. <br>
 <br>
 
